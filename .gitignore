@@ -1,1 +1,5 @@
+
+# For paket
 paket-files
+packages/
+.paket/obj
