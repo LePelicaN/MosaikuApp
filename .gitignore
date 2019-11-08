@@ -1,5 +1,13 @@
 
+# For F#
+src/bin
+src/obj
+
 # For paket
 paket-files
 packages/
 .paket/obj
+
+# For FAKE
+.config/
+.fake/
