@@ -11,3 +11,6 @@ packages/
 # For FAKE
 .config/
 .fake/
+
+# Node
+node_modules
