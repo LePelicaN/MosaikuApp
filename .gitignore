@@ -1,5 +1,7 @@
 
 # For F#
+.ionide
+.vscode
 src/bin
 src/obj
 
